@@ -1,0 +1,2 @@
+# Inforendszerek
+Informatikai rendszerek irányítása
